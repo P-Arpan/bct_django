@@ -1,0 +1,6 @@
+myvenv
+datavenv
+NOTES
+*.md
+**/__pycache__/
+.vscode
